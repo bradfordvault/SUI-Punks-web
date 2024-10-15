@@ -172,7 +172,7 @@ const Hero = () => {
           <div className="flex flex-col md:flex-row justify-center gap-4">
             {/* Telegram Button */}
             <a
-              href="https://t.me/suipunksnfts"
+              href="https://t.co/s6qcEUw7P8"
               target="_blank"
               rel="noopener noreferrer"
             >
@@ -181,18 +181,8 @@ const Hero = () => {
               </button>
             </a>
 
-            {/* Discord Button */}
-            <a
-              href="https://discord.com/invite/yourDiscordLink"
-              target="_blank"
-              rel="noopener noreferrer"
-            >
-              <button className="bg-white text-[#304FFF] px-4 py-2 text-xs md:text-xl w-36 md:w-52">
-                Join Discord
-              </button>
-            </a>
-          </div>
-        </div>
+          
+            
 
         {/* Right Side Images for Desktop */}
         <div className="hidden md:flex md:flex-col justify-center items-center absolute right-[10%] space-y-[1%]">
